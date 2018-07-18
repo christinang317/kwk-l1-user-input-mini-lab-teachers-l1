@@ -12,7 +12,9 @@ puts "What would you like to eat?"
 
 eat = gets.chomp
 
+puts "How long would you like to stay?"
 
+nights = gets.chomp
 
 
 # Lastly, puts it all back by interpolating these values in a string.
